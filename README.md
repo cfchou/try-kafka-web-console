@@ -1,3 +1,8 @@
+Fork from [claudemamo/kafka-web-console](https://github.com/claudemamo/kafka-web-console).
+Upgrade Kafka to 0.8.2.1 and Play framework to 2.3.8. 
+My playground for trying things like finagle, util-zk and ZkClient.
+
+
 Kafka Web Console
 =========
 Kafka Web Console is a Java web application for monitoring [Apache Kafka](http://kafka.apache.org/). With a **modern** web browser, you can view from the console:
